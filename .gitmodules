@@ -1,0 +1,3 @@
+[submodule "site-lisp/extension/helm-system-packages"]
+	path = site-lisp/extension/helm-system-packages
+	url = https://github.com/emacs-helm/helm-system-packages.git
